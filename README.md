@@ -7,10 +7,10 @@
 
 Windows10所有国家自带字体：
 
-``` git clone -b windows10 https://github.com/EndingCode/windows-fonts.git /usr/share/fonts/windows10-fonts```
+``` git clone -b windows10 https://github.com/uinv/windows-fonts.git /usr/share/fonts/windows10-fonts```
 
 或
 
 Windows11所有国家自带字体
 
-``` git clone -b windows11 https://github.com/EndingCode/windows-fonts.git /usr/share/fonts/windows11-fonts```
+``` git clone -b windows11 https://github.com/uinv/windows-fonts.git /usr/share/fonts/windows11-fonts```
